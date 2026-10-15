@@ -1,0 +1,9 @@
+{
+  "client_id": "https://i3odja.github.io/cimd-fixture/test_11.json",
+  "client_name": "CIMD Test Client 11 - unknown scope is provided",
+  "redirect_uris": [
+    "http://localhost:3000/callback",
+    "http://127.0.0.1:3000/callback"
+  ],
+  "scope": "unknown"
+}
