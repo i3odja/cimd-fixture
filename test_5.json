@@ -1,0 +1,8 @@
+{
+  "client_id": "https://i3odja.github.io/cimd-fixture/test_5.json",
+  "client_name": "CIMD Test Client 5 - redirect uri with a fragment",
+  "redirect_uris": [
+    "http://localhost:3000/callback#frag"
+  ],
+  "scope": "read write"
+}
