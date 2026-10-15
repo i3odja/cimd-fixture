@@ -1,0 +1,8 @@
+{
+  "client_id": "https://i3odja.github.io/cimd-fixture/test_12.json",
+  "client_name": "CIMD Test Client 12 - custom schema",
+  "redirect_uris": [
+    "vscode://callback"
+  ],
+  "scope": "read write"
+}
