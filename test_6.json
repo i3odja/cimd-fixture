@@ -1,0 +1,8 @@
+{
+  "client_id": "https://i3odja.github.io/cimd-fixture/test_6.json",
+  "client_name": "CIMD Test Client 6 - redirect uri does not match any allowed redirect URI",
+  "redirect_uris": [
+    "https://evil.example.com/callback"
+  ],
+  "scope": "read write"
+}
