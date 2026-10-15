@@ -1,0 +1,8 @@
+{
+  "client_id": "https://i3odja.github.io/cimd-fixture/test_10.json",
+  "client_name": "CIMD Test Client 10 - scopes are not provided",
+  "redirect_uris": [
+    "http://localhost:3000/callback",
+    "http://127.0.0.1:3000/callback"
+  ]
+}
