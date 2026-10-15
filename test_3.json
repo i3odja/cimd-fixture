@@ -1,0 +1,8 @@
+{
+  "client_id": "https://i3odja.github.io/cimd-fixture/test_1.json",
+  "redirect_uris": [
+    "http://localhost:3000/callback",
+    "http://127.0.0.1:3000/callback"
+  ],
+  "scope": "read write"
+}
