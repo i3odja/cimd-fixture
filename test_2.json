@@ -1,0 +1,8 @@
+{
+  "client_id": "https://i3odja.github.io/cimd-fixture/wrong.json",
+  "client_name": "CIMD Test Client 2 - WRONG",
+  "redirect_uris": [
+    "http://localhost:3000/callback"
+  ],
+  "scope": "read write"
+}
