@@ -1,0 +1,10 @@
+{
+  "client_id": "https://i3odja.github.io/cimd-fixture/test_9.json",
+  "client_name": "CIMD Test Client 9 - Verify that the grant type cannot be overridden by the document",
+  "redirect_uris": [
+    "http://localhost:3000/callback",
+    "http://127.0.0.1:3000/callback"
+  ],
+  "scope": "read write",
+  "grant_types": ["client_credentials"]
+}
