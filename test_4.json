@@ -1,0 +1,6 @@
+{
+  "client_id": "https://i3odja.github.io/cimd-fixture/test_4.json",
+  "client_name": "CIMD Test Client 4 - empty redirect uris",
+  "redirect_uris": [],
+  "scope": "read write"
+}
