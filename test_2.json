@@ -4,5 +4,5 @@
   "redirect_uris": [
     "http://localhost:3000/callback"
   ],
-  "scope": "read write"
+  "scope": "read write offline_access"
 }

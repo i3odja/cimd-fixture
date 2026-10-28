@@ -5,6 +5,6 @@
     "http://localhost:3000/callback",
     "http://127.0.0.1:3000/callback"
   ],
-  "scope": "read write",
+  "scope": "read write offline_access",
   "grant_types": ["client_credentials"]
 }
